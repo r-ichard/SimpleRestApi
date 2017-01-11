@@ -7,7 +7,8 @@ Technologies utilisées :
 * AltoRouter (http://altorouter.com/)
 
 Pour la mise en place du serveur il fonctionne soit sans localhost dans un dossier ‘webservice’ (configurable dans le fichier config.php). Soit via un hôte virtuel dans ce cas il suffit de laisser la variable ‘foldername’ vide dans le fichier config.php
-Ci-dessous toutes les mentions d’id de villes correspondra au champ ‘code insee’ de la base de donnée.
+
+*Ci-dessous toutes les mentions d’id de villes correspondra au champ ‘code insee’ de la base de donnée.*
 
 ##Requêtes GET##
 * Obtentions de toutes les villes via l’url : 
