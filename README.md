@@ -22,9 +22,13 @@ Ci-dessous toutes les mentions d’id de villes correspondra au champ ‘code in
   * /villes/id/gps/
 * Obtentions de toutes les villes via l’url : 
   * /ville/id
+
+ 
 ##Requêtes PATCH##
 * Mise à jour du nombre d’habitant d’une ville via l’url : 
   * /ville/id/nb_habitant
+
+
 ##Requêtes DELETE##
 * Suppression d’une ville via l’url : 
   * /ville/id
